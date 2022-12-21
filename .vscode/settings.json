@@ -8,6 +8,8 @@
     },
     "markdown.validate.enabled": true,
     "markdown.validate.ignoredLinks": [
-        "/Download"
+        "/Download",
+        "/assets/docs/languages/r/overview.png",
+        "/docs/editor/debugging.md#multitarget-debugging"
     ]
 }
